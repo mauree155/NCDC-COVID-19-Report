@@ -1,13 +1,15 @@
 # NCDC-COVID-19-Report
 ### Table of contents
-1. [Project Overview](project-overview)
-2. [Data Source](data-source)
-3. [Tools Used](tools-used)
-4. [Analytical Process](analytical-process)
-5. [Dashboard](dashboard)
-6. [Executive Summary](executive-summary)
-7. [Recommendations](recommendations)
-8. [Conclusion](conclusion)
+
+1. [Project Overview](#project-overview)  
+2. [Data Source](#data-source)  
+3. [Tools Used](#tools-used)  
+4. [Analytical Process](#analytical-process)  
+5. [Dashboard](#dashboard)  
+6. [Executive Summary](#executive-summary)  
+7. [Recommendations](#recommendations)  
+8. [Conclusion](#conclusion)
+
 
 ## 1. Project Overview
 This project offers a comprehensive, data-driven view of the COVID-19 pandemic as it unfolded across Nigeria. Built using real-time case data from the Nigeria Centre for Disease Control (NCDC), the dashboard highlights the national and state-level impact of the virus, tracking confirmed cases, recoveries, deaths, and active infections over time.
@@ -53,7 +55,11 @@ Using Power BI’s visual and analytical capabilities, a fully interactive dashb
 
 Each visual was purposefully placed to flow like a health status report — starting from total national figures, down to monthly trends, then drilling into state-specific views.
 
-## 5. Executive Summary: Key Findings from the COVID-19 Nigeria Dashboard
+## 5. Dashboard
+![NCDC](https://github.com/user-attachments/assets/ad693109-8ff2-4fe3-9ed5-d0358e552da4)
+
+
+## 6. Executive Summary: Key Findings from the COVID-19 Nigeria Dashboard
 This analysis offers a strategic overview of how COVID-19 affected Nigeria across time and space. By tracking real-time data on confirmed cases, recoveries, and deaths — and segmenting them by state, month, and year — the dashboard presents a compelling data narrative of the country’s response, outbreak intensity, and recovery trends.
 From the initial waves through subsequent months, case patterns revealed both national and regional challenges. While some states consistently reported high case numbers, others saw more moderate impacts or periods of rapid recovery. Through structured filters and visual comparisons, this dashboard supports public health planning, resource allocation, and targeted policy interventions.
 
@@ -64,12 +70,7 @@ From the initial waves through subsequent months, case patterns revealed both na
 -	**Recoveries:** The country experienced a strong recovery rate, with more than 190,000 individuals recovering, showing the effectiveness of public health interventions.
 -	**Active Cases:** Fluctuations in active cases were directly influenced by the timing of infection surges and recovery efficiency. Peaks occurred primarily during certain months, notably around mid-2020 and early 2021.
 
-Time-based analysis reveals clear surges and declines across multiple waves, particularly in months like July, December, and January, reflecting global seasonal patterns and public movement trends.
-
-## 6. Dashboard
-![NCDC](https://github.com/user-attachments/assets/ad693109-8ff2-4fe3-9ed5-d0358e552da4)
-
-
+Time-based analysis reveals clear surges and declines across multiple waves, particularly in months like July, December, and January, reflecting global seasonal patterns and public movement trends
 
 ### Regional Analysis
 -	Lagos State emerged as the epicenter of the pandemic in Nigeria, consistently reporting the highest confirmed cases, followed by FCT (Abuja), Rivers, and Kaduna.
