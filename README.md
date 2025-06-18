@@ -58,7 +58,7 @@ Each visual was purposefully placed to flow like a health status report — star
 ## 5. Dashboard
 ![NCDC](https://github.com/user-attachments/assets/ad693109-8ff2-4fe3-9ed5-d0358e552da4)
 
-Access the interactive dashboard <a href=cv"https://app.powerbi.com/groups/me/reports/4c04da6f-1af3-4207-b039-9e07b11683ba/ReportSection?experience=power-bi">Here</a>
+Access the interactive dashboard <a href="https://app.powerbi.com/groups/me/reports/4c04da6f-1af3-4207-b039-9e07b11683ba/ReportSection?experience=power-bi">Here</a>
 
 ## 6. Executive Summary: Key Findings from the COVID-19 Nigeria Dashboard
 This analysis offers a strategic overview of how COVID-19 affected Nigeria across time and space. By tracking real-time data on confirmed cases, recoveries, and deaths — and segmenting them by state, month, and year — the dashboard presents a compelling data narrative of the country’s response, outbreak intensity, and recovery trends.
@@ -96,6 +96,6 @@ This regional disparity points to the need for localized response strategies, pa
 -	**Standardize Data Collection Across States:** Ensuring consistency in how states report confirmed cases, recoveries, and deaths will improve the quality and comparability of national insights.
 
 ## 8.  Conclusion
-The NCDC COVID-19 Nigeria Dashboard offers not just a historical account of the pandemic, but a strategic lens through which the nation’s preparedness and response capabilities can be examined and enhanced.
+The NCDC COVID-19 Nigeria Dashboard offers not just a historical account of the pandemic but a strategic lens through which the nation’s preparedness and response capabilities can be examined and enhanced.
 With over 200,000 confirmed cases, concentrated in urban and economically vibrant states, Nigeria's experience underscores the need for robust surveillance, flexible policy frameworks, and region-specific interventions. The consistent monthly trends, high recovery rates, and state-level disparities provide actionable insights for future epidemic response planning.
 By leveraging data-driven tools like this dashboard, public health agencies, policymakers, and development partners can prioritize resources, tailor interventions, and ultimately build a more resilient health system—one that is informed, adaptive, and prepared for future public health threats.
