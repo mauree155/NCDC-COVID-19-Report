@@ -33,7 +33,7 @@ Utilized for dashboard design, DAX calculations, and interactive visualizations.
 
 ## 4. Analytical Process
 **Step 1:** Data Cleaning and Transformation (Power BI Power Query Editor)
-All data preparation was done within Power BI using Power Query, ensuring the dataset was optimized for accurate analysis and dashboard responsiveness. Key steps included:
+All data preparation was performed within Power BI using Power Query, ensuring the dataset was optimized for accurate analysis and responsive dashboards. Key steps included:
 - Removed missing values and null records to ensure accuracy in case counts
 - Filtered and validated state names to avoid duplication and spelling inconsistencies
 - Standardized date formats to enable accurate monthly/yearly aggregations
@@ -58,6 +58,7 @@ Each visual was purposefully placed to flow like a health status report — star
 ## 5. Dashboard
 ![NCDC](https://github.com/user-attachments/assets/ad693109-8ff2-4fe3-9ed5-d0358e552da4)
 
+Access the interactive dashboard <a href=cv"https://app.powerbi.com/groups/me/reports/4c04da6f-1af3-4207-b039-9e07b11683ba/ReportSection?experience=power-bi">Here</a>
 
 ## 6. Executive Summary: Key Findings from the COVID-19 Nigeria Dashboard
 This analysis offers a strategic overview of how COVID-19 affected Nigeria across time and space. By tracking real-time data on confirmed cases, recoveries, and deaths — and segmenting them by state, month, and year — the dashboard presents a compelling data narrative of the country’s response, outbreak intensity, and recovery trends.
