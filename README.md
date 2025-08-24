@@ -1,14 +1,14 @@
 # NCDC-COVID-19-Report
 ### Table of contents
 
-1. [Project Overview](#project-overview)  
-2. [Data Source](#data-source)  
-3. [Tools Used](#tools-used)  
-4. [Analytical Process](#analytical-process)  
-5. [Dashboard](#dashboard)  
-6. [Executive Summary](#executive-summary)  
-7. [Recommendations](#recommendations)  
-8. [Conclusion](#conclusion)
+1. [Project Overview](#1-project-overview)  
+2. [Data Source](#2-data-source)  
+3. [Tools Used](#3-tools-used)  
+4. [Analytical Process](#4-analytical-process)  
+5. [Dashboard](#5-dashboard)  
+6. [Executive Summary](#6-executive-summary)  
+7. [Recommendations](#7-recommendations)  
+8. [Conclusion](#8-conclusion)
 
 
 ## 1. Project Overview
@@ -60,7 +60,7 @@ Each visual was purposefully placed to flow like a health status report — star
 
 Access the interactive dashboard <a href="https://app.powerbi.com/groups/me/reports/4c04da6f-1af3-4207-b039-9e07b11683ba/ReportSection?experience=power-bi">Here</a>
 
-## 6. Executive Summary: Key Findings from the COVID-19 Nigeria Dashboard
+## 6. Executive Summary
 This analysis offers a strategic overview of how COVID-19 affected Nigeria across time and space. By tracking real-time data on confirmed cases, recoveries, and deaths — and segmenting them by state, month, and year — the dashboard presents a compelling data narrative of the country’s response, outbreak intensity, and recovery trends.
 From the initial waves through subsequent months, case patterns revealed both national and regional challenges. While some states consistently reported high case numbers, others saw more moderate impacts or periods of rapid recovery. Through structured filters and visual comparisons, this dashboard supports public health planning, resource allocation, and targeted policy interventions.
 
@@ -95,7 +95,7 @@ This regional disparity points to the need for localized response strategies, pa
 -	**Invest in Real-Time Data Dashboards:** The effectiveness of this dashboard demonstrates the value of interactive tools in informing decisions. Expanding this capability to other health domains (e.g., vaccination coverage, maternal health) would strengthen national data governance.
 -	**Standardize Data Collection Across States:** Ensuring consistency in how states report confirmed cases, recoveries, and deaths will improve the quality and comparability of national insights.
 
-## 8.  Conclusion
+## 8. Conclusion
 The NCDC COVID-19 Nigeria Dashboard offers not just a historical account of the pandemic but a strategic lens through which the nation’s preparedness and response capabilities can be examined and enhanced.
 With over 200,000 confirmed cases, concentrated in urban and economically vibrant states, Nigeria's experience underscores the need for robust surveillance, flexible policy frameworks, and region-specific interventions. The consistent monthly trends, high recovery rates, and state-level disparities provide actionable insights for future epidemic response planning.
 By leveraging data-driven tools like this dashboard, public health agencies, policymakers, and development partners can prioritize resources, tailor interventions, and ultimately build a more resilient health system—one that is informed, adaptive, and prepared for future public health threats.
